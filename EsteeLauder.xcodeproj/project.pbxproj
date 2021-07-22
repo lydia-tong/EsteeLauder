@@ -16,6 +16,7 @@
 		CBC4BE2026A7DC01008642E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBC4BE1E26A7DC01008642E2 /* LaunchScreen.storyboard */; };
 		CBC4BE2B26A7DC01008642E2 /* EsteeLauderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC4BE2A26A7DC01008642E2 /* EsteeLauderTests.swift */; };
 		CBC4BE3626A7DC01008642E2 /* EsteeLauderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC4BE3526A7DC01008642E2 /* EsteeLauderUITests.swift */; };
+		CBC4BE4426A7DC4F008642E2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC4BE4326A7DC4F008642E2 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		CBC4BE3126A7DC01008642E2 /* EsteeLauderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EsteeLauderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBC4BE3526A7DC01008642E2 /* EsteeLauderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EsteeLauderUITests.swift; sourceTree = "<group>"; };
 		CBC4BE3726A7DC01008642E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CBC4BE4326A7DC4F008642E2 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				CBC4BE1226A7DBFD008642E2 /* SceneDelegate.swift */,
 				CBC4BE1426A7DBFD008642E2 /* ViewController.swift */,
 				CBC4BE1626A7DBFD008642E2 /* Main.storyboard */,
+				CBC4BE4326A7DC4F008642E2 /* SecondViewController.swift */,
 				CBC4BE1C26A7DC01008642E2 /* Assets.xcassets */,
 				CBC4BE1E26A7DC01008642E2 /* LaunchScreen.storyboard */,
 				CBC4BE2126A7DC01008642E2 /* Info.plist */,
@@ -264,6 +267,7 @@
 				CBC4BE1526A7DBFD008642E2 /* ViewController.swift in Sources */,
 				CBC4BE1126A7DBFD008642E2 /* AppDelegate.swift in Sources */,
 				CBC4BE1326A7DBFD008642E2 /* SceneDelegate.swift in Sources */,
+				CBC4BE4426A7DC4F008642E2 /* SecondViewController.swift in Sources */,
 				CBC4BE1B26A7DBFD008642E2 /* EsteeLauder.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
